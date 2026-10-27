@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-27 09:37:01,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
+2026-10-27 23:48:09,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
@@ -26,8 +26,8 @@ CCTV-4,http://120.238.94.10:9901/tsfile/live/1021_1.m3u8
 CCTV-4,http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
 CCTV-4,http://183.11.239.36:808/hls/77/index.m3u8
 CCTV-4,http://120.211.62.180:8000/hls/4/index.m3u8
-CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8
 CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8
 CCTV-5+,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8
 CCTV-6,http://74.91.26.218:82/live/cctv6hd.m3u8
@@ -68,12 +68,12 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 浙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd
 浙江卫视,http://204.12.221.218:8181/3m1080p/zjws.m3u8
 湖南卫视,http://204.12.221.218:8181/3m1080p/hnws.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://61.136.172.236:9901/tsfile/live/0128_1.m3u8
-北京卫视,http://204.12.221.218:8181/3m1080p/bjws.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://204.12.221.218:8181/3m1080p/bjws.m3u8
 湖北卫视,http://204.12.221.218:8181/3m1080p/hbws.m3u8
 黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8
 安徽卫视,http://204.12.221.218:8181/3m1080p/ahws.m3u8
@@ -168,7 +168,6 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 陕西卫视,http://204.12.221.218:8181/3m1080p/snws.m3u8
 四川卫视,http://204.12.221.218:8181/3m1080p/scws.m3u8
 深圳卫视,http://204.12.221.218:8181/3m1080p/szws.m3u8
-深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 三沙卫视,http://tpc.x3322.net:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
@@ -193,5 +192,5 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
 新疆卫视,http://58.220.219.14:9901/tsfile/live/0120_6.m3u8
 云南卫视,http://107.150.60.122/live/ynwshd.m3u8
-云南卫视,http://204.12.221.218:8181/3m1080p/ynws.m3u8
 云南卫视,http://198.204.228.26/live/ynwshd.m3u8
+云南卫视,http://204.12.221.218:8181/3m1080p/ynws.m3u8
